@@ -1,0 +1,8 @@
+# 10/31/17 13:18:20
+# -p ../octanol.prmtop
+# Loaded topologies:
+#   ../octanol.prmtop
+trajin traj000000001.dcd 1000 1000 1
+trajout solvated.rst7
+go
+quit

@@ -1,0 +1,7 @@
+source leaprc.gaff
+loadoff octanol.off
+loadamberparams octanol.frcmod
+mol = loadmol2 octanol.mol2
+solvatebox mol OCT 25.0 0.75 iso
+saveamberparm mol octanol.prmtop octanol.rst7
+quit

@@ -1,0 +1,10 @@
+
+GAFF Octanol folders inputfiles:
+
+GAFF_octanol: creation of octnaol GAFF and its library file
+
+octanol_density: setting up a MD for octanol in octanol, to measure density and DH_vap
+
+octanol_solvation_free_energy: free energy of solvation of octanol in octanol
+
+octanol_hydration_free_energy: free energy of hydration system for octanol

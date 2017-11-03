@@ -1,0 +1,2 @@
+
+obabel -ismi octanol.smile -opbd octnaol.pdb --gen3d -h > octanol.pdb
